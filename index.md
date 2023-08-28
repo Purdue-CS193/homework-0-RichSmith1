@@ -1,3 +1,11 @@
+# RichSmith1's First CS193 Homework
+
+- No exams!
+- The course leads and TAs :)
+- actually useful info
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
