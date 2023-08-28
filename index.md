@@ -1,4 +1,4 @@
-# RichSmith1's First CS193 Homework
+# Rich Smith's First CS193 Homework
 
 - No exams!
 - The course leads and TAs :)
